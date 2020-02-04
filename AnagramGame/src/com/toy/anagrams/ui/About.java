@@ -76,7 +76,7 @@ public class About extends JDialog {
         gridBagConstraints.weighty = 1.0;
         getContentPane().add(mainPanel, gridBagConstraints);
 
-    }//GEN-END:initComponents
+    }
 
     private void closeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_closeButtonActionPerformed
         setVisible(false);
