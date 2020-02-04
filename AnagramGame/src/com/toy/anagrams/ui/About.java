@@ -28,9 +28,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
 
-/**
- * 
- */
+
 public class About extends JDialog {
 
     /** Creates new form About */
